@@ -1,6 +1,6 @@
 # Analysis of A/B testing
 
-Companies often run tens, if not hundreds, of A/B tests at the same time. 
+Companies often many A/B tests at the same time. 
 In this project, I analyze results from an A/B test and design an algorithm to automate some steps.
 
 For an e-commerce company with localized versions of the site, Spain-based users have a much higher conversion rate than any other Spanish-speaking country. One possible one reason could be translation. All Spanish- speaking countries had the same translation of the site which was written by a Spaniard. 
